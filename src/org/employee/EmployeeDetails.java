@@ -19,6 +19,12 @@ public class EmployeeDetails {
 	private void empStatus() {
 		System.out.println("Working");
 	}
+	private void empLocation() {
+		System.out.println("OMR");
+	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> fb35a4e4f9d7068a65e6c60e30ca2afd8bc3f443
 	
 	public static void main(String[] args) {
 		
